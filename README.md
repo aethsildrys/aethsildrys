@@ -2,7 +2,7 @@
 - 👀 I’m interested in InfoSec and DevOps
 - 🌱 I’m currently learning git, python, ansible and linux stuff 
 - 💞️ I’m looking to collaborate on <???>
-- 📫 How to reach me? Just e-mail me -> bianka.mazurek@icloud.com
+- 📫 How to reach me? Just e-mail aethsildrys@aethsildrys
 
 <!---
 aethsildrys/aethsildrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
